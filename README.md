@@ -5,7 +5,7 @@ OOD Image Processing Instagram Model
 ## The Model Diagram
 
 Our total model looks like this in a diagram. (Built using IntelliJ)\
-![](res/classDiagram.png)
+![](jpeg/classDiagram.png)
 
 ## The model interface
 
@@ -213,13 +213,13 @@ a `Command` object that allows this functionality to be intergrated appropriatel
 We added a `Mosaic` interface to our model package, whose objects do all the calculations for the
 random seed mosaic-ing of the given image. <br>
 Mosaic original:<br>
-![](res/images/originals/fishLowest.jpg) <br>
+![](jpeg/fishLowest.jpg) <br>
 Mosaic by seed of 10:<br>
-![](res/images/mosaic/fishMosaic10.png)<br>
+![](jpeg/mosaic/fishMosaic10.png)<br>
 Mosaic by seed of 100:<br>
-![](res/images/mosaic/fishMosaic100.png)<br>
+![](jpeg/mosaic/fishMosaic100.png)<br>
 Mosaic by seed of 1000:<br>
-![](res/images/mosaic/fishMosaic1000.png)<br>
+![](jpeg/mosaic/fishMosaic1000.png)<br>
 
 ## Assumptions
 
