@@ -45,7 +45,7 @@ image, functionality. Specifically, `InstagramModelImpl` is able to do the follo
 (example images have been converted to jpeg files for .md file processing) \
 Source: Katsuhiko Nakanishi (Contributor to the project)\
 Examples of each operation can be seen below using the following image as an original:\
-![fishLowest.jpg](res/images/originals/fishLowest.jpg)\
+![fishLowest.jpg](jpeg/fishLowest.jpg)\
 Filter - Blur:\
 ![fishBlur.jpg](jpeg/fishBlur.jpg)\
 Filter - Sharpen:\
@@ -178,7 +178,7 @@ images used with the `InstagramModel` application can be found in the `images/pp
 following image as an original, here are the results of applying certain filters and
 transformations, some in combination.\
 Source: Katsuhiko Nakanishi (Contributor to the project)\
-![canyonLowest.jpg](res/images/originals/canyonLowest.jpg)\
+![canyonLowest.jpg](jpeg/canyonLowest.jpg)\
 Filter - Blur:\
 ![canyonBlur.jpg](jpeg/canyonBlur.jpg)\
 Transform - Sharpen:\
